@@ -1,0 +1,16 @@
+- What is Javascript?
+JS is a high-level, object oriented, multi-paradigm programming language
+
+• High Level → We don't need to worry about complex stuff like memory management.
+• Object Oriented → works on the objects concept
+• Multi-Paradigm → Flexible and versatile to use different styles of programming like Imperative and Declarative. Different styles are just a way of structurring thr code.
+
+
+
+
+
+
+// Bullets for use
+◦ 
+• 
+→
