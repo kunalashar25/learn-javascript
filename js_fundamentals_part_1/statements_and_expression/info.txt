@@ -1,0 +1,5 @@
+Statement is a bigger piece of code that is executed and it does not produce a value on itself
+Example: declaration (if-else, switch)
+
+Expression is a piece of code that produces a value
+Example: 3+4 or true || false
