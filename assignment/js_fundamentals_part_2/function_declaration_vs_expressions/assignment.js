@@ -10,7 +10,6 @@ console.log(`China's population is ${china}% of world's population`);
 // China's population is 18.240506329113924% of world's population
 
 // Function Expression
-
 const percentageOfWorld2 = function (population) {
     return (population / worldPopulation) * 100;
 }
