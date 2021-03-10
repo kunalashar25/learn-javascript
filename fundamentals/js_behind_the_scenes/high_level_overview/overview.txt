@@ -1,0 +1,46 @@
+Javascript Is:
+    - HIGH LEVEL
+        • Developer is not responsible to manage system resources like RAM, Processor, etc
+        • Easy to learn & Use
+        • Down side of this is that programs will never be as fast and optimized as Low-Level languages like C
+    - GARBAGE COLLECTED
+        • Takes Memory management away from the developers
+        • Automatically removes old/unused objects from the memory
+    - INTERPRETED OR JUST-IN-TIME COMPILED
+        • Computer processor only understands 0's and 1'side. Also called Machine Code.
+        • We write human readable Javascript Code
+        • This steps converts human readable code to machine code
+        • This happens inside Javascript Engine
+    - MULTI-PARADIGM
+        • Paradigm is an approach and overall mindset of structuring our code. It'll direct our coding stye and technique
+        • Paradigm can be classified as:
+            ◦ Imperative
+            ◦ Declarative
+        • Three Popular Paradigm:
+            ◦ Procedural
+                → Organize code in a linear way and add some functions in between.
+            ◦ Object Oriented Programming (OOP)
+            ◦ Functional Programming (FP)
+        • Javascript follows all three Paradigms.
+    - PROTOTYPE BASED OBJECT ORIENTED
+        • Almost everything in Javascript is an object except primitive values (strings, numbers, etc).
+        • There is a prototype for each object type. Example arrays.
+            ◦ Array methods are inherited from Array prototype.        
+    - FIRST CLASS FUNCTIONS
+        • Functions are treated as regular varaibles
+        • We can pass them into other functions or return them from functions.
+        • Allows for Functional Programming
+    - DYNAMIC
+        • It is Dynamically Typed
+        • We do not assign data types to varaibles. Instead, they become known when Javascript Engine executes are code. 
+        • Also, type of variable can be easily changed as we re-assign varaibles.
+        • To use Javascript with types, switch to Typescript.
+    - SINGLE THREADED
+        • Javascript runs on single thread. We can only do one thing at a time.
+        • Javascript engine implements Concurrency Model to handle multiple tasks happening at the same time.
+    - NON-BLOCKING EVENT LOOP
+        • This is helpful incase of long running tasks
+        • Javascript achieves that with the help of an Event Loop.
+            ◦ Event loop takes long running tasks
+            ◦ Executes them in background
+            ◦ Put tasks back in main thread once they are finished.
