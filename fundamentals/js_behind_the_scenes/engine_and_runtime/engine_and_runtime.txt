@@ -1,0 +1,113 @@
+Javascript:
+    - ENGINE
+        • Program that executes Javascript Code
+        • Every browser has its own Javascript Engine
+        • Most well known engine is Google's V-Eight 
+            ◦ V-Eight engine powers Google Chrome
+        • Javascript Engine contains two things:
+            ◦ Call Stack
+                → Our code is executed here using Execution Context  
+            ◦ Heap
+                → Unstructured memory pool which stores all the objects that our application needs.
+        • Stpes Performed by Engine:
+            ◦ Parse the code
+                → Code is parsed into a data structure called AST - Abstract Syntax Tree. Check AST Example Below
+                → In AST, each line of the code is split up into meaningful pieces like const or functions keywords.
+                → Then saving all the pieces into the tree in a structured way
+                → This step also checks for Syntax errors
+                → Resulting tree will be later used to generate the Machine Code.
+                → AST is not related to DOM Tree.
+            ◦ Compilation
+                → It takes the Generated AST and compiles it into Machine Code
+            ◦ Execution
+                → This machine code will get Executed rigt away as modern Javascript uses Just-In-Time Compilation
+                → Execution Happens in Javascript Engine Call Stack
+            ◦ Optimization
+                → Moden Javascript engine have clever optimization Strategies
+                → They create very unoptimized version of machine code in the beginning so it can start execution as fast as possible
+                → Then in background the code is being optimized and recompiled during the execution.
+                → After each optimization, the unoptimized code is swept for new optimized code w/o stopping the execution.
+                → This process makes modern engine V-Eight so fast
+        • Parsing, Compilation, and Optimization happens in some special threads inside the Engine that we cannot access from our code.
+        • Refer /concept_images/js_behind_the_scene/Just-in-time working.png
+    - RUNTIME IN THE BROWSER
+        • Container Including all the things that we need to use Javascript
+        • Heart of any Javascript Runtime is always Javascript Engine
+        • W/o Engine there is no Runtime and no Javascript at all.
+        • Engine alone is not enough
+        • To work properly, we need access to Web API (DOM, Timers, Fetch API, etc)
+            ◦ Web API's are functionalities provided to the Engine but they are not part of the Javascript Language.
+            ◦ Javascript gets access to those API's via global window object
+            ◦ Web API's are also part of Runtime because Runtime is just like a container that contains all the Javascript related stuff.
+        • Javascript Runtime also includes a Callback Queue
+            ◦ This is a data structure that contains all the call back functions that are ready to be executed.
+            ◦ Event Handlers functions are called Callback functions. 
+                → When user clicks on a button, perform onClick function.
+            ◦ Sequence of things that happens after the event:
+                → Callback function is put into Callback Queue.
+                → When Stack is empty, Callback function is passed to the Stack so it can be executed.
+                → This happens with the help of Event Loop.
+                → Event Loop takes callback functions from the callback queue and puts them in the call stack so they can be executed.
+        • Refer /concept_images/js_behind_the_scene/javscript-runtime.png
+
+
+COMPILATION vs INTERPRETATION
+    - COMPILATION
+        • Entire code is converted into machine code at once and written to binary file that can be executed by a Computer (Step 1)
+        • Execution can happen way after compilation (Step 2)
+        • Follows two steps approach:
+            ◦ Source Code → Machine Code (Portable File) → Program Execution
+    - INTERPRETATION
+        • Runs through source code and executes it line by line (Step 1)
+        • Follows one step approach:
+            ◦ Source Code → Program Execution
+        • Source code still needs to be converted to machine code but it happens right before it is executed
+        • Javascript Used to be Interpreted Language
+
+JUST-IN-TIME COMPILATION
+    • Modern Javascript Engine now uses a mix of Compilation and Interpretation.
+    • It is called as Just-In-Time Compilation
+    • This approach compliles entire Javascript code into machine code at once and then executes it right away.
+    • Still follows two steps approach but there is no Portable File at Machine Code Step
+
+
+AST Example:
+    • Generate AST from https://astexplorer.net/
+
+    - Javascript Code
+        const a = 23;
+    - Corresponding AST
+        {
+            "type": "Program",
+            "start": 0,
+            "end": 13,
+            "body": [
+                {
+                "type": "VariableDeclaration",
+                "start": 0,
+                "end": 13,
+                "declarations": [
+                    {
+                    "type": "VariableDeclarator",
+                    "start": 6,
+                    "end": 12,
+                    "id": {
+                        "type": "Identifier",
+                        "start": 6,
+                        "end": 7,
+                        "name": "a"
+                    },
+                    "init": {
+                        "type": "Literal",
+                        "start": 10,
+                        "end": 12,
+                        "value": 23,
+                        "raw": "23"
+                    }
+                    }
+                ],
+                "kind": "const"
+                }
+            ],
+            "sourceType": "module"
+        }
