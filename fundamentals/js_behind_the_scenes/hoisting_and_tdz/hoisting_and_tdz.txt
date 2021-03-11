@@ -1,0 +1,9 @@
+HOISTING
+    • Makes some types of variables accessible/usable in the code before they are actually declared.
+    • Variables are lifted to the top of their scope. Behind the scene:
+        → Before Execution, code is scanned for varaible declarations, 
+        → And for each varaible, a new property is created in the variable environment object.    
+    • Refer /concept_images/js_behind_the_scene/hoisting_in_js.png
+
+Temporal Dead Zone (TDZ)
+    • Refer /concept_images/js_behind_the_scene/temporal_dead_zone.png
