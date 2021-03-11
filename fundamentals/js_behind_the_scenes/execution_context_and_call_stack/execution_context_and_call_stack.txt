@@ -1,0 +1,56 @@
+How is Javascript code Executed?
+    • Code Execution Begins after Compilation Strategies
+    • Global Execution Context is created for the top level code
+        ◦ Top level code is a code which is not inside any function
+        ◦ Function body is only executed when it is called
+        ◦ Execution Context is an abstract context
+            → It is an environment in which a piece of Javascript is executed
+            → It stored all the necessary information for some code to be executed
+            → Exactly one global execution context (EC) 
+    • Execution of top level code (inside global EC)
+    • Execution of functions and waiting for callbacks
+        ◦ For each and every function call, a new execution context will be created.
+        ◦ It will contain all the information that is necessary to run that function.
+        ◦ All execution context makes up the Call Stack
+
+What is inside EXECUTION CONTEXT?
+    • Variable environment
+        ◦ All variables and function declarations are stored
+            → let, const, and var declarations
+            → Functions
+            → argument object - all arguments passed to the functions
+    • Scope Chain
+        ◦ Contains references to variables that are located outside of the current function.
+        ◦ To keep track of Scope Chain, it is stored in each Execution Context
+    • this keyword
+        ◦ Not applicable for arrow functions
+            → arrow functions will not have arguments object as well
+    • Refer /concept_images/js_behind_the_scene/execution_context.png    
+
+CALL STACK
+    • Call Stack with Memory Heap makes up the Javascript Engine
+    • Call Stack is a place where Execution Context gets stacked on top of each other in order to keep track of the program execution.
+    • Follows LIFO structure
+    • Refer /concept_images/js_behind_the_scene/call_stack_LIFO.png
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+◦ 
+• 
+→
