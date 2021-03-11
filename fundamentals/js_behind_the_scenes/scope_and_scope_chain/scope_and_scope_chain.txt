@@ -1,0 +1,34 @@
+What is SCOPING?
+    • Where program varaibles are organized and accessed?
+        ◦ Where do variables live?
+        ◦ Where can we access a certain varaible and where not?
+    
+ What is LEXICAL SCOPING?
+    • Scoping is controlled by placement of functions and blocks in the code          
+
+What is SCOPE?
+    • Space or Environment in which a certain varaible is declared.
+    • Types of Scope:
+        ◦ Global
+            → Top-level code
+            → Outside of any function or block
+            → Varaible declared inside global scope can be accessed any where
+        ◦ Function
+            → Varaibles are accessible only inside functions and not outside
+            → Also called Local Scope
+            → var varaibles will be linked to function scope even when it is written inside the block.
+        ◦ Block (ES6)
+            → Everything within curly braces
+            → varaible are accessible only inside block
+            → only applies to let and const varaibles
+            → functions are also blocked scoped (only in strict mode)
+        ◦ Refer /concept_images/js_behind_the_scene/types_of_scope.png
+
+What is SCOPE OF VARIABLE?
+    • Region of our code where a certain varaible can be accessed.   
+
+SCOPE CHAIN
+    • Refer /concept_images/js_behind_the_scene/scope_chain.png
+
+SCOPE CHAIN vs CALL STACK
+    • Refer /concept_images/js_behind_the_scene/scope_chain_vs_call_stack.png

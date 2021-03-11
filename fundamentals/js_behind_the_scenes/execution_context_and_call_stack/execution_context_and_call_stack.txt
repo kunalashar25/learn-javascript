@@ -32,25 +32,3 @@ CALL STACK
     • Call Stack is a place where Execution Context gets stacked on top of each other in order to keep track of the program execution.
     • Follows LIFO structure
     • Refer /concept_images/js_behind_the_scene/call_stack_LIFO.png
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-◦ 
-• 
-→
