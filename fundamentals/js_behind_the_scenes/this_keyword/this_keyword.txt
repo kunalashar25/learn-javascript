@@ -1,0 +1,17 @@
+Working of THIS keyword
+    • Special varaible that is created for every execution context
+    • Takes the value of the "owner" of the funtion in which the this keyword is used
+    • this is NOT static. It depends on how the function is called.
+    • Its value is only assigned when the function is actually called
+    • Ways to call this keyword:
+        ◦ Method
+            → function attached to an object
+            → this = <object that is calling the method>        
+        ◦ Simple Function call
+            → this = undefined (only when using strict mode. Otherwise window)
+        ◦ Arrow Functions
+            → Arrow functions do not get their own this keyword
+            → this = <this of surrounding function(lexical this)>
+        ◦ Event Listener
+            → this = <DOM element that the handler is attached to>
+    • Refer /concept_images/js_behind_the_scene/this_keyword.png
