@@ -23,10 +23,12 @@ If you're new to Javascript world then start learning the fundamentals first as 
 
 <details>
   <summary>Part 1</summary>
-  List of topics coverd under this section:
-  - First Program, Hello World!
-  - Intro to Javascript
-  - Values and Variables
+
+#### List of topics coverd under this section:
+
+- First Program, Hello World!
+- Intro to Javascript
+- Values and Variables
 </details>
 
 <details>
