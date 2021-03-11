@@ -26,9 +26,9 @@ If you're new to Javascript world then start learning the fundamentals first as 
 
 #### List of topics coverd under this section:
 
-- First Program, Hello World!
-- Intro to Javascript
-- Values and Variables
+- [Intro to Javascript](https://github.com/kunalashar25/learn-javascript/blob/master/fundamentals/js_fundamentals_part_1/introduction/intro.txt)
+- [Linking a Javascript File](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_1/link_a_js_file)
+- [Values and Variables](https://github.com/kunalashar25/learn-javascript/blob/master/fundamentals/js_fundamentals_part_1/values_and_variables/script.js)
 </details>
 
 <details>
