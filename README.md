@@ -2,6 +2,8 @@
 
 This repo will cover all the concepts required to learn javascript from scratch.
 
+I have created this repo as a part of self-learning and development referring the Udemy Course - [The Complete Javascript Course](https://www.udemy.com/course/the-complete-javascript-course)
+
 ## Project Structure
 
 - `fundamentals` → Minute details with examples on each and every topic in javascript
