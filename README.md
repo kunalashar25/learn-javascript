@@ -24,7 +24,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 ### 1. Fundamentals
 
 <details>
-  <summary>Part 1</summary>
+  <summary>Fundamentals Part 1</summary>
 
 #### List of topics coverd under this section:
 
@@ -47,7 +47,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 </details>
 
 <details>
-  <summary>Part 2</summary>
+  <summary>Fundamentals Part 2</summary>
 
 #### List of topics coverd under this section:
 
@@ -88,11 +88,25 @@ If you're new to Javascript world then start learning the fundamentals first as 
 ### 2. Assignments
 
 <details>
-  <summary>Part 1</summary>
+  <summary>Fundamentals Part 1</summary>
+
+#### Assignment topics in this section:
+
+- [Values and Variables](https://github.com/kunalashar25/learn-javascript/tree/master/assignment/js_fundamentals_part_1/values_and_varaibles)
+- [Data Types](https://github.com/kunalashar25/learn-javascript/tree/master/assignment/js_fundamentals_part_1/data_types)
+- [let, const, and var](https://github.com/kunalashar25/learn-javascript/tree/master/assignment/js_fundamentals_part_1/let_const_var)
+- [Basic Operators](https://github.com/kunalashar25/learn-javascript/tree/master/assignment/js_fundamentals_part_1/basic_operators)
+- [String and Template Literals](https://github.com/kunalashar25/learn-javascript/tree/master/assignment/js_fundamentals_part_1/strings_and_template_literals)
+- [if-else Statement](https://github.com/kunalashar25/learn-javascript/tree/master/assignment/js_fundamentals_part_1/if_else)
+- [Type Conversion and Corecion](https://github.com/kunalashar25/learn-javascript/tree/master/assignment/js_fundamentals_part_1/type_conversion_and_coercion)
+- [== vs ===](https://github.com/kunalashar25/learn-javascript/tree/master/assignment/js_fundamentals_part_1/equality_operators)
+- [Logical Operators](https://github.com/kunalashar25/learn-javascript/tree/master/assignment/js_fundamentals_part_1/logical_operators)
+- [Switch Statement](https://github.com/kunalashar25/learn-javascript/tree/master/assignment/js_fundamentals_part_1/switch_statement)
+- [Conditional Operators](https://github.com/kunalashar25/learn-javascript/tree/master/assignment/js_fundamentals_part_1/conditional_operator)
 </details>
 
 <details>
-  <summary>Part 2</summary>
+  <summary>Fundamentals Part 2</summary>
 </details>
 
 ### 3. Challenges
@@ -100,7 +114,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 Refer [Challenges File](https://github.com/kunalashar25/learn-javascript/blob/master/challenges/all-coding-challenges.pdf) to get all the questions.
 
 <details>
-  <summary>Part 1</summary>
+  <summary>Fundamentals Part 1</summary>
 
 #### Challenges in this section:
 
@@ -112,7 +126,7 @@ Refer [Challenges File](https://github.com/kunalashar25/learn-javascript/blob/ma
 </details>
 
 <details>
-  <summary>Part 2</summary>
+  <summary>Fundamentals Part 2</summary>
 
 #### Challenges in this section:
 
