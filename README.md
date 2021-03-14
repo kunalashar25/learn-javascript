@@ -85,6 +85,14 @@ If you're new to Javascript world then start learning the fundamentals first as 
 
 </details>
 
+<details>
+  <summary>Data Structure, Modern Operators, and Strings</summary>
+
+#### List of topics coverd under this section:
+
+- []()
+</details>
+
 ### 2. Assignments
 
 <details>
