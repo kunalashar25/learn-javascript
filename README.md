@@ -122,3 +122,11 @@ Refer [Challenges File](https://github.com/kunalashar25/learn-javascript/blob/ma
 - [Challenge 4](https://github.com/kunalashar25/learn-javascript/tree/master/challenges/js_fundamentals_part_2/challenge_4)
 
 </details>
+
+<details>
+  <summary>Developer Skills and Setup</summary>
+
+#### Challenges in this section:
+
+- [Challenge 1](https://github.com/kunalashar25/learn-javascript/tree/master/challenges/developer_skills_and_setup/challenge_1)
+</details>
