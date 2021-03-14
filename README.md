@@ -31,6 +31,19 @@ If you're new to Javascript world then start learning the fundamentals first as 
 - [Intro to Javascript](https://github.com/kunalashar25/learn-javascript/blob/master/fundamentals/js_fundamentals_part_1/introduction/intro.txt)
 - [Linking a Javascript File](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_1/link_a_js_file)
 - [Values and Variables](https://github.com/kunalashar25/learn-javascript/blob/master/fundamentals/js_fundamentals_part_1/values_and_variables/script.js)
+- [Data Types](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_1/data_types)
+- [let, const, and var](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_1/declaring_variables)
+- [Basic Operators](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_1/basic_operators)
+- [Operator Precedence](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_1/operator_precedence)
+- [String and Template Literals](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_1/strings_and_template_literals)
+- [if-else Statement](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_1/if_else)
+- [Type Conversion and Coercion](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_1/type_conversion_and_coercion)
+- [Truthy and Falsy Values](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_1/truthy_and_falsy_values)
+- [== vs ===](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_1/equality_operators)
+- [Boolean Logic](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_1/boolean_logic)
+- [Logical Operators](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_1/logical_operators)
+- [Switch Statement](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_1/switch_statement)
+- [Conditional Operator](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_1/conditional_operator)
 </details>
 
 <details>
