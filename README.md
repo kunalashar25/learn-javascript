@@ -48,6 +48,24 @@ If you're new to Javascript world then start learning the fundamentals first as 
 
 <details>
   <summary>Part 2</summary>
+
+#### List of topics coverd under this section:
+
+- [Strict Mode](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_2/strict_mode)
+- [Functions](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_2/functions)
+- [Function Declaration vs Expressions](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_2/function_declaration_vs_expressions)
+- [Arrow Functions](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_2/arrow_functions)
+- [Function Calling Functions](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_2/functions_calling_functions)
+- [Reviewing Functions](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_2/reviewing_functions)
+- [Arrays Introduction](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_2/array_introduction)
+- [Basic Array Operations](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_2/basic_array_operation)
+- [Introduction to Objects](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_2/introduction_to_objects)
+- [Dot vs Bracket Notations](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_2/dot_vs_bracket_notation)
+- [Object Methods](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_2/object_methods)
+- [for Loop](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_2/for_loop)
+- [Loop Arrays, Continue, and Break](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_2/looping_array_break_and_continue)
+- [Loop Backwards and Nested Loops](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_2/loop_backwards_and_nested_loops)
+- [While Loop](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_fundamentals_part_2/while_loop)
 </details>
 
 <details>
@@ -81,8 +99,18 @@ If you're new to Javascript world then start learning the fundamentals first as 
 
 <details>
   <summary>Part 1</summary>
+
+#### Challenges in this section:
+
+-[]() -[]() -[]() -[]()
+
 </details>
 
 <details>
   <summary>Part 2</summary>
+
+#### Challenges in this section:
+
+-[]() -[]() -[]() -[]()
+
 </details>
