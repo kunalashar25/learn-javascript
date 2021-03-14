@@ -97,12 +97,17 @@ If you're new to Javascript world then start learning the fundamentals first as 
 
 ### 3. Challenges
 
+Refer [Challenges File](https://github.com/kunalashar25/learn-javascript/blob/master/challenges/all-coding-challenges.pdf) to get all the questions.
+
 <details>
   <summary>Part 1</summary>
 
 #### Challenges in this section:
 
--[]() -[]() -[]() -[]()
+- [Challenge 1](https://github.com/kunalashar25/learn-javascript/tree/master/challenges/js_fundamentals_part_1/challenge_1)
+- [Challenge 2](https://github.com/kunalashar25/learn-javascript/tree/master/challenges/js_fundamentals_part_1/challenge_2)
+- [Challenge 3](https://github.com/kunalashar25/learn-javascript/tree/master/challenges/js_fundamentals_part_1/challenge_3)
+- [Challenge 4](https://github.com/kunalashar25/learn-javascript/tree/master/challenges/js_fundamentals_part_1/challenge_4)
 
 </details>
 
@@ -111,6 +116,9 @@ If you're new to Javascript world then start learning the fundamentals first as 
 
 #### Challenges in this section:
 
--[]() -[]() -[]() -[]()
+- [Challenge 1](https://github.com/kunalashar25/learn-javascript/tree/master/challenges/js_fundamentals_part_2/challenge_1)
+- [Challenge 2](https://github.com/kunalashar25/learn-javascript/tree/master/challenges/js_fundamentals_part_2/challenge_2)
+- [Challenge 3](https://github.com/kunalashar25/learn-javascript/tree/master/challenges/js_fundamentals_part_2/challenge_3)
+- [Challenge 4](https://github.com/kunalashar25/learn-javascript/tree/master/challenges/js_fundamentals_part_2/challenge_4)
 
 </details>
