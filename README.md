@@ -39,6 +39,19 @@ If you're new to Javascript world then start learning the fundamentals first as 
 
 <details>
   <summary>Behind the Scenes</summary>
+
+#### List of topics coverd under this section:
+
+- [Javascript High-level Overview](https://github.com/kunalashar25/learn-javascript/blob/master/fundamentals/js_behind_the_scenes/high_level_overview/overview.txt)
+- [JS Engine and Runtime](https://github.com/kunalashar25/learn-javascript/blob/master/fundamentals/js_behind_the_scenes/engine_and_runtime/engine_and_runtime.txt)
+- [Execution Context and Call Stack](https://github.com/kunalashar25/learn-javascript/blob/master/fundamentals/js_behind_the_scenes/execution_context_and_call_stack/execution_context_and_call_stack.txt)
+- [Scope and Scope Chain](https://github.com/kunalashar25/learn-javascript/blob/master/fundamentals/js_behind_the_scenes/scope_and_scope_chain/scope_and_scope_chain.txt)
+- [Scoping in Practice](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_behind_the_scenes/scoping_in_practice)
+- [Hoisting and TDZ](https://github.com/kunalashar25/learn-javascript/blob/master/fundamentals/js_behind_the_scenes/hoisting_and_tdz/hoisting_and_tdz.txt)
+- [this Keyword](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_behind_the_scenes/this_keyword)
+- [Regular vs Arrow Functions](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_behind_the_scenes/regular_vs_arrow_functions)
+- [primitives vs Objects](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/js_behind_the_scenes/primitives_vs_objects)
+
 </details>
 
 ### 2. Assignments
