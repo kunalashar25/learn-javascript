@@ -1,0 +1,24 @@
+PRIMITIVE TYPES
+    • Number
+    • String
+    • Boolean
+    • Undefined
+    • Null
+    • Symbol
+    • BigInt
+
+OBJECTS TYPES (REFERENCE TYPES)
+    • Object Literals
+    • Arrays
+    • Functions
+    • Many more..
+
+
+JS ENGINE
+    • CALL STACK
+        ◦ Primitive Types are stored in CALL STACK
+        ◦ Value at memory address is Immutable
+    • HEAP
+        ◦ All Reference Types are stored in HEAP
+
+Refer /concept_images/js_behind_the_scene/primitive_vs_object_memory_storage.png
