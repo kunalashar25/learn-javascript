@@ -90,7 +90,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 
 #### List of topics coverd under this section:
 
-- []()
+- [Destructuring Arrays](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/destructuring_arrays)
 </details>
 
 ### 2. Assignments
