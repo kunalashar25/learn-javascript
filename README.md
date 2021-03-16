@@ -92,6 +92,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 
 - [Destructuring Arrays](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/destructuring_arrays)
 - [Destructuring Objects](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/destructuring_objects)
+- [Spread Operator](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/spread_operator)
 </details>
 
 ### 2. Assignments

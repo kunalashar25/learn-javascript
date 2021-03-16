@@ -38,7 +38,7 @@ const restaurant = {
     address = 'Ooty',
   }) {
     console.log(
-      `Order Received! ${this.starterMenu[starterIndex]} and ${this.mainMenu[mainIndex]} will be delivered at ${address} at ${time}`
+      `Order Received! ${this.starterMenu[starterIndex]} and ${this.mainMenu[mainIndex]} will be delivered in ${address} at ${time}`
     );
   },
 };
@@ -102,11 +102,11 @@ restaurant.orderDelivery({
   mainIndex: 1,
   starterIndex: 0,
 });
-// Order Received! Focaccia and Pasta will be delivered at Himachal at 22.30
+// Order Received! Focaccia and Pasta will be delivered in Himachal at 22.30
 
 // default values will be used when properties are not provided
 restaurant.orderDelivery({
   address: 'Punjab',
   starterIndex: 2,
 });
-// Order Received! Garlic Bread and Pizza will be delivered at Punjab at 10.30 am
+// Order Received! Garlic Bread and Pizza will be delivered in Punjab at 10.30 am
