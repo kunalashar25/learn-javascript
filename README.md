@@ -91,9 +91,12 @@ If you're new to Javascript world then start learning the fundamentals first as 
 #### List of topics coverd under this section:
 
 - [Destructuring Arrays](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/destructuring_arrays)
+- [Destructuring Objects](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/destructuring_objects)
 </details>
 
 ### 2. Assignments
+
+Refer [Assignments File](https://github.com/kunalashar25/learn-javascript/blob/master/assignment/assignments-js-fundamentals.pdf) to get all the questions.
 
 <details>
   <summary>Fundamentals Part 1</summary>

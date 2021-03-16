@@ -50,6 +50,7 @@ const [first, second] = restaurant.categories;
 console.log(first, second); // Italian Pizzeria
 
 // keep empty space to not use that value
+// order of elements matter in arrays
 let [first1, , third] = restaurant.categories;
 console.log(first1, third); // Italian Vegetarian
 
