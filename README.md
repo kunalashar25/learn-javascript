@@ -96,6 +96,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Rest Patterns and Parameters](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/rest_patterns_and_parameters)
 -   [Short Circuiting - && and ||](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/short_circuiting)
 -   [Nullish Coalescing Operator - ??](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/nullish_coalescing_operator)
+-   [Looping Arrays - for of loop](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/looping_arrays_for_of_loop)
 </details>
 
 ### 2. Assignments
