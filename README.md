@@ -19,7 +19,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 - Pick a topic from `fundamentals`, Understand the topic and practice a sample problem.
 - Move to `Assignment` to solve an assignment on the same topic.
 - Repeat this steps for all the sections/topics present inside fundamentals.
-- At the end of each section, Move to `challenges` and try to complete all 4 challanges for the section.
+- At the end of each section, Move to `challenges` and try to complete all the challanges for that section.
 
 ### 1. Fundamentals
 
@@ -93,6 +93,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 - [Destructuring Arrays](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/destructuring_arrays)
 - [Destructuring Objects](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/destructuring_objects)
 - [Spread Operator](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/spread_operator)
+- [Rest Patterns and Parameters](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/rest_patterns_and_parameters)
 </details>
 
 ### 2. Assignments

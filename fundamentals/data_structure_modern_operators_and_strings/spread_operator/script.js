@@ -1,6 +1,8 @@
 'use strict';
 
 // Spread Operator is used to expand an array into all its elements
+// Spread operator is used on the right side of the assignment operator (=)
+
 const arr = [7, 8, 9];
 
 // to add new values at the start - Bad Practice
@@ -22,30 +24,30 @@ console.log(...goodArray); // 1 2 7 8 9
 
 // Data needed for first part of the section
 const restaurant = {
-  name: 'Classico Italiano',
-  location: 'Via Angelo Tavanti 23, Firenze, Italy',
-  categories: ['Italian', 'Pizzeria', 'Vegetarian', 'Organic'],
-  starterMenu: ['Focaccia', 'Bruschetta', 'Garlic Bread', 'Caprese Salad'],
-  mainMenu: ['Pizza', 'Pasta', 'Risotto'],
+	name: 'Classico Italiano',
+	location: 'Via Angelo Tavanti 23, Firenze, Italy',
+	categories: ['Italian', 'Pizzeria', 'Vegetarian', 'Organic'],
+	starterMenu: ['Focaccia', 'Bruschetta', 'Garlic Bread', 'Caprese Salad'],
+	mainMenu: ['Pizza', 'Pasta', 'Risotto'],
 
-  openingHours: {
-    thu: {
-      open: 12,
-      close: 22,
-    },
-    fri: {
-      open: 11,
-      close: 23,
-    },
-    sat: {
-      open: 0, // Open 24 hours
-      close: 24,
-    },
-  },
+	openingHours: {
+		thu: {
+			open: 12,
+			close: 22,
+		},
+		fri: {
+			open: 11,
+			close: 23,
+		},
+		sat: {
+			open: 0, // Open 24 hours
+			close: 24,
+		},
+	},
 
-  orderPasta: function (ing1, ing2, ing3) {
-    console.log(`Pasta Ingedrients ${ing1},${ing2},${ing3}`);
-  },
+	orderPasta: function (ing1, ing2, ing3) {
+		console.log(`Pasta Ingedrients ${ing1},${ing2},${ing3}`);
+	},
 };
 
 // creating new menu with new items and including old ones as well
