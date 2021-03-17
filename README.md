@@ -95,6 +95,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Spread Operator](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/spread_operator)
 -   [Rest Patterns and Parameters](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/rest_patterns_and_parameters)
 -   [Short Circuiting - && and ||](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/short_circuiting)
+-   [Nullish Coalescing Operator - ??](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/nullish_coalescing_operator)
 </details>
 
 ### 2. Assignments
@@ -173,4 +174,12 @@ Refer [Challenges File](https://github.com/kunalashar25/learn-javascript/blob/ma
 #### Challenges in this section:
 
 -   [Challenge 1](https://github.com/kunalashar25/learn-javascript/tree/master/challenges/developer_skills_and_setup/challenge_1)
+</details>
+
+<details>
+  <summary>Data Structure, Modern Operator, and Strings</summary>
+
+#### Challenges in this section:
+
+-   [Challenge 1](https://github.com/kunalashar25/learn-javascript/tree/master/challenges/data_structure_modern_operators_and_strings/challenge_1)
 </details>
