@@ -17,7 +17,7 @@ I have created this repo as a part of self-learning and development activity by 
 If you're new to Javascript world then start learning the fundamentals first as this will act as the building block for the overall language understanding.
 
 -   Pick a topic from `fundamentals`, Understand the topic and practice a sample problem.
--   Move to `Assignment` to solve an assignment on the same topic.
+-   Move to `assignment` to solve an assignment on the same topic.
 -   Repeat this steps for all the sections/topics present inside fundamentals.
 -   At the end of each section, Move to `challenges` and try to complete all the challanges for that section.
 
@@ -98,6 +98,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Nullish Coalescing Operator - ??](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/nullish_coalescing_operator)
 -   [Looping Arrays - for of loop](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/looping_arrays_for_of_loop)
 -   [Enhanced Object Literals](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/enhanced_object_literals)
+-   [Optional Chaining Operator ?.](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/optional_chaining)
 </details>
 
 ### 2. Assignments
