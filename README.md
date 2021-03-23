@@ -101,6 +101,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Optional Chaining Operator ?.](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/optional_chaining)
 -   [Looping Objects - keys, values, and entries](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/looping_objects)
 -   [Sets](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/sets)
+-   [Maps - Fundamentals](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/maps/fundamentals)
 </details>
 
 ### 2. Assignments
