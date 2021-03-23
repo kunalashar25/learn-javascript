@@ -102,6 +102,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Looping Objects - keys, values, and entries](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/looping_objects)
 -   [Sets](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/sets)
 -   [Maps - Fundamentals](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/maps/fundamentals)
+-   [Maps - Iterations](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/maps/iterations)
 </details>
 
 ### 2. Assignments
