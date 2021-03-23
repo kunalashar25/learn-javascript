@@ -99,6 +99,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Looping Arrays - for of loop](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/looping_arrays_for_of_loop)
 -   [Enhanced Object Literals](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/enhanced_object_literals)
 -   [Optional Chaining Operator ?.](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/optional_chaining)
+-   [Looping Objects - keys, values, and entries](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/looping_objects)
 </details>
 
 ### 2. Assignments

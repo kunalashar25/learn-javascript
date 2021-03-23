@@ -26,7 +26,7 @@ const restaurant = {
 	},
 
 	pay: function (a) {
-		console.log('Payment done for ' + a);
+		return 'Payment done for ' + a;
 	},
 };
 
