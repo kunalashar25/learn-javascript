@@ -103,6 +103,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Sets](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/sets)
 -   [Maps - Fundamentals](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/maps/fundamentals)
 -   [Maps - Iterations](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/maps/iterations)
+-   [Data Structure to Use](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/data_structure_to_use)
 </details>
 
 ### 2. Assignments

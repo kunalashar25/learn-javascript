@@ -1,0 +1,46 @@
+Sources
+    • From the Program itself
+        ◦ Data written directly into source code. Example: status message
+    • User Interface
+        ◦ Data input from the user or data written in DOM. Example: tasks in to-do app
+    • External Sources
+        ◦ Data fetched from API's
+
+
+• Usually we get collection of data from the above Sources
+• We use Data Structures to store all such data
+• There are 4 built-in data Structures in JS
+    ◦ Data as list?
+        → Array
+        → Set
+    ◦ Key-Value Pair?
+        → Objects
+        → Maps
+
+ARRAYS vs SET
+• We can use both for simple list of values
+
+    • ARRAYS
+        ◦ When we need ordered list of values.
+        ◦ Might contain duplicate
+        ◦ Used when we need to manipulate data
+    • SET
+        ◦ When we need to work with unique values
+        ◦ Used when high-performance is really important
+        ◦ Used to remove duplicates from array
+
+
+OBJECTS vs MAPS
+• We can use both for key-value data structure
+
+    • OBJECTS
+        ◦ More traditional key/value structure
+        ◦ keys can only be string
+        ◦ Easy to write and access values with . and []
+        ◦ When we need to include funtions(method) with this keyword
+        ◦ Working with JSON data
+    • MAPS
+        ◦ Better performance
+        ◦ Keys can have any data type
+        ◦ Easy to iterate
+        ◦ Easy to compute size
