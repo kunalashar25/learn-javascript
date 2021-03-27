@@ -5,15 +5,15 @@ const flights =
 
 console.log(flights.split('+')); // Array(4)
 
+const getCode = str => str.slice(0, 3).toUpperCase();
+
 for (const flight of flights.split('+')) {
 	const [status, from, to, time] = flight.split(';');
 
-	const output = `${status.replaceAll('_', ' ')} ${from
-		.slice(0, 3)
-		.toUpperCase()} ${to.slice(0, 3).toUpperCase()} ${
-		time.replace(':', 'h') + ''
-	}`;
-	console.log(output);
+	const output = `${status.replaceAll('_', ' ')} ${getCode(from)} ${getCode(
+		to
+	)} ${time.replace(':', 'h') + ''}`;
+	console.log(output.padStart(40));
 }
 
 // Delayed Departure FAO TXL 11h25
