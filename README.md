@@ -104,6 +104,9 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Maps - Fundamentals](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/maps/fundamentals)
 -   [Maps - Iterations](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/maps/iterations)
 -   [Data Structure to Use](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/data_structure_to_use)
+-   [Working with Strings - Part 1](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/working_with_strings/part_1)
+-   [Working with Strings - Part 2](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/working_with_strings/part_2)
+-   [Working with Strings - Part 3](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/working_with_strings/part_3)
 </details>
 
 ### 2. Assignments
