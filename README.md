@@ -107,6 +107,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Working with Strings - Part 1](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/working_with_strings/part_1)
 -   [Working with Strings - Part 2](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/working_with_strings/part_2)
 -   [Working with Strings - Part 3](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/working_with_strings/part_3)
+-   [Working with Strings - Paractice Methods](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/working_with_strings/method_practice)
 </details>
 
 ### 2. Assignments
