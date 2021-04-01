@@ -110,6 +110,14 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Working with Strings - Paractice Methods](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/data_structure_modern_operators_and_strings/working_with_strings/method_practice)
 </details>
 
+<details>
+  <summary>A Closer Look at the Functions</summary>
+
+#### List of topics coverd under this section:
+
+-   [Defaulting Parameters](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/closer_look_at_functions/default_parameters)
+</details>
+
 ### 2. Assignments
 
 Refer [Assignments File](https://github.com/kunalashar25/learn-javascript/blob/master/assignment/assignments-js-fundamentals.pdf) to get all the questions.
