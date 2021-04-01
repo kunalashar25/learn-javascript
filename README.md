@@ -118,6 +118,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Defaulting Parameters](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/closer_look_at_functions/default_parameters)
 -   [How Passing Argument Works - Value vs Reference](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/closer_look_at_functions/passing_argument_value_vs_reference)
 -   [First Class and Higher Order Functions](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/closer_look_at_functions/first_class_and_high_order_functions)
+-   [Functions Accepting Callback Functions](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/closer_look_at_functions/functions_accepting_callback_functions)
 </details>
 
 ### 2. Assignments
