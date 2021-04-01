@@ -120,6 +120,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [First Class and Higher Order Functions](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/closer_look_at_functions/first_class_and_high_order_functions)
 -   [Functions Accepting Callback Functions](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/closer_look_at_functions/functions_accepting_callback_functions)
 -   [Functions Returning Functions](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/closer_look_at_functions/functions_returning_functions)
+-   [The Call and Apply methods](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/closer_look_at_functions/the_call_and_apply_methods)
 </details>
 
 ### 2. Assignments
