@@ -1,0 +1,14 @@
+First Class Functions
+    • JS treats functions as first class citizens
+    • This means that functions are simply values
+        ◦ store function in varaible or properties
+        ◦ pass function as argument to other functions
+        ◦ return a function from another functions
+    • Functions are just another type of object
+    • It is a feature that a programming might have or might not have
+
+Higher Order Functions
+    • A function that receives another function as an argument, that returns a new function or both
+    • This is only possible because of First Class Functions
+
+Refer /concept_images/closer_look_at_functions/first_class_and_high_order_functions.png
