@@ -116,6 +116,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 #### List of topics coverd under this section:
 
 -   [Defaulting Parameters](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/closer_look_at_functions/default_parameters)
+-   [How Passing Argument Works - Value vs Reference](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/closer_look_at_functions/passing_argument_value_vs_reference)
 </details>
 
 ### 2. Assignments
