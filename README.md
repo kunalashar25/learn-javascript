@@ -121,6 +121,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Functions Accepting Callback Functions](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/closer_look_at_functions/functions_accepting_callback_functions)
 -   [Functions Returning Functions](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/closer_look_at_functions/functions_returning_functions)
 -   [The Call and Apply methods](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/closer_look_at_functions/the_call_and_apply_methods)
+-   [The Bind Method](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/closer_look_at_functions/the_bind_method)
 </details>
 
 ### 2. Assignments
