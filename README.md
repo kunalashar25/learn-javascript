@@ -133,6 +133,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 #### List of topics coverd under this section:
 
 -   [Simple Array Methods](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/simple_array_methods)
+-   [Looping Arrays - forEach](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/looping_arrays_for_each)
 </details>
 
 ### 2. Assignments
