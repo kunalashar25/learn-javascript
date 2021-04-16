@@ -123,6 +123,8 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [The Call and Apply methods](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/closer_look_at_functions/the_call_and_apply_methods)
 -   [The Bind Method](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/closer_look_at_functions/the_bind_method)
 -   [Immediately Invoked Function Expressions - IIFE](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/closer_look_at_functions/immediately_invoked_function_expressions)
+-   [Closures](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/closer_look_at_functions/closures)
+-   [More Closures Examples](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/closer_look_at_functions/closures/more_closure_examples)
 </details>
 
 ### 2. Assignments
