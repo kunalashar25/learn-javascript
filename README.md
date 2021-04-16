@@ -127,6 +127,14 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [More Closures Examples](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/closer_look_at_functions/closures/more_closure_examples)
 </details>
 
+<details>
+  <summary>Working With Arrays</summary>
+
+#### List of topics coverd under this section:
+
+-   [Simple Array Methods](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/simple_array_methods)
+</details>
+
 ### 2. Assignments
 
 Refer [Assignments File](https://github.com/kunalashar25/learn-javascript/blob/master/assignment/assignments-js-fundamentals.pdf) to get all the questions.
