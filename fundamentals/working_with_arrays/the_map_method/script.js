@@ -61,33 +61,6 @@ const inputLoanAmount = document.querySelector('.form__input--loan-amount');
 const inputCloseUsername = document.querySelector('.form__input--user');
 const inputClosePin = document.querySelector('.form__input--pin');
 
-// Add movents to the container
-const displayMovements = function (movements) {
-	// removing existing content present in the container
-	containerMovements.innerHTML = '';
-
-	// iterate on each movements for the given array
-	movements.forEach(function (mov, i) {
-		// determine type of transaction
-		const type = mov > 0 ? 'deposit' : 'withdrawal';
-
-		// creating html element based on data received
-		const html = `
-			<div class="movements__row">
-				<div class="movements__type movements__type--${type}">
-					${i + 1} ${type}
-				</div>
-				<div class="movements__date">3 days ago</div>
-				<div class="movements__value">${mov}</div>
-			</div>
-		`;
-
-		// adding new movements row to existing element
-		containerMovements.insertAdjacentHTML('afterbegin', html); // check MDM for all such values
-	});
-};
-displayMovements(account1.movements);
-
 /////////////////////////////////////////////////
 /////////////////////////////////////////////////
 // LECTURES
@@ -101,6 +74,40 @@ const currencies = new Map([
 const movements = [200, 450, -400, 3000, -650, -130, 70, 1300];
 
 /////////////////////////////////////////////////
-// https://bankist.netlify.app/
-// login with js/1111
-// jd/2222
+
+// concerting movements from euros to usd
+const euroToUsd = 1.1;
+
+// map returns elements of the array
+const movementsUsd = movements.map(function (v) {
+	return v * euroToUsd;
+});
+console.log(movementsUsd);
+// (8) [220.00000000000003, 495.00000000000006, -440.00000000000006, 3300.0000000000005, -715.0000000000001, -143, 77, 1430.0000000000002]
+
+// ----------------------------------------------------------------------------------------------------------------------------------------------
+
+// trying same example with arrow functions
+const moveInUsd = movements.map(v => v * euroToUsd);
+console.log(moveInUsd);
+// (8) [220.00000000000003, 495.00000000000006, -440.00000000000006, 3300.0000000000005, -715.0000000000001, -143, 77, 1430.0000000000002]
+
+// ----------------------------------------------------------------------------------------------------------------------------------------------
+
+// trying same example with for of
+const mInUsd = [];
+for (const m of movements) {
+	mInUsd.push(m * euroToUsd);
+}
+console.log(mInUsd);
+// (8) [220.00000000000003, 495.00000000000006, -440.00000000000006, 3300.0000000000005, -715.0000000000001, -143, 77, 1430.0000000000002]
+
+// ----------------------------------------------------------------------------------------------------------------------------------------------
+
+// storing movement descriptions in an array using map method
+const movementsDescriptions = movements.map(function (v, i, arr) {
+	if (v > 0) return `Movement ${i + 1} : You deposited ${v}`;
+	else return `Movement ${i + 1} : You Withdrew ${Math.abs(v)}`;
+});
+console.log(movementsDescriptions);
+// (8) ["Movement 1 : You deposited 200", "Movement 2 : You deposited 450", "Movement 3 : You Withdrew 400", "Movement 4 : You deposited 3000", "Movement 5 : You Withdrew 650", "Movement 6 : You Withdrew 130", "Movement 7 : You deposited 70", "Movement 8 : You deposited 1300"]
