@@ -136,6 +136,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Looping Arrays - forEach](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/looping_arrays_for_each)
 -   [forEach with Map and Set](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/for_each_with_map_and_set)
 -   [Project Bankist App](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/project_bankist_app)
+-   [Creating DOM Elements](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/creating_dom_elements)
 </details>
 
 ### 2. Assignments
