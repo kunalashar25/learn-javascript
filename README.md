@@ -236,3 +236,11 @@ Refer [Challenges File](https://github.com/kunalashar25/learn-javascript/blob/ma
 -   [Challenge 1](https://github.com/kunalashar25/learn-javascript/tree/master/challenges/closer_look_at_functions/challenge_1)
 -   [Challenge 2](https://github.com/kunalashar25/learn-javascript/tree/master/challenges/closer_look_at_functions/challenge_2)
 </details>
+
+<details>
+  <summary>Working with Arrays</summary>
+
+#### Challenges in this section:
+
+-   [Challenge 1](https://github.com/kunalashar25/learn-javascript/tree/master/challenges/working_with_arrays/challenge_1)
+</details>
