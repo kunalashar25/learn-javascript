@@ -75,39 +75,26 @@ const movements = [200, 450, -400, 3000, -650, -130, 70, 1300];
 
 /////////////////////////////////////////////////
 
-// concerting movements from euros to usd
-const euroToUsd = 1.1;
+// Simple logic to generate username
+const user = 'Thomas Cook'; // username = tc
+const username = user
+	.toLowerCase()
+	.split(' ')
+	.map(name => name[0])
+	.join('');
+console.log(username); // tc
 
-// map returns elements of the array
-const movementsUsd = movements.map(function (v) {
-	return v * euroToUsd;
-});
-console.log(movementsUsd);
-// (8) [220.00000000000003, 495.00000000000006, -440.00000000000006, 3300.0000000000005, -715.0000000000001, -143, 77, 1430.0000000000002]
+// converting above logic into a function to update all accounts
+const createUsernames = function (accs) {
+	// using forEach as we do not want to return new array, our objective is to modify current object
+	accs.forEach(function (acc) {
+		acc.username = acc.owner
+			.toLowerCase()
+			.split(' ')
+			.map(name => name[0])
+			.join('');
+	});
+};
 
-// ----------------------------------------------------------------------------------------------------------------------------------------------
-
-// trying same example with arrow functions
-const moveInUsd = movements.map(v => v * euroToUsd);
-console.log(moveInUsd);
-// (8) [220.00000000000003, 495.00000000000006, -440.00000000000006, 3300.0000000000005, -715.0000000000001, -143, 77, 1430.0000000000002]
-
-// ----------------------------------------------------------------------------------------------------------------------------------------------
-
-// trying same example with for of
-const mInUsd = [];
-for (const m of movements) {
-	mInUsd.push(m * euroToUsd);
-}
-console.log(mInUsd);
-// (8) [220.00000000000003, 495.00000000000006, -440.00000000000006, 3300.0000000000005, -715.0000000000001, -143, 77, 1430.0000000000002]
-
-// ----------------------------------------------------------------------------------------------------------------------------------------------
-
-// storing movement descriptions in an array using map method
-const movementsDescriptions = movements.map(function (v, i) {
-	if (v > 0) return `Movement ${i + 1} : You deposited ${v}`;
-	else return `Movement ${i + 1} : You Withdrew ${Math.abs(v)}`;
-});
-console.log(movementsDescriptions);
-// (8) ["Movement 1 : You deposited 200", "Movement 2 : You deposited 450", "Movement 3 : You Withdrew 400", "Movement 4 : You deposited 3000", "Movement 5 : You Withdrew 650", "Movement 6 : You Withdrew 130", "Movement 7 : You deposited 70", "Movement 8 : You deposited 1300"]
+createUsernames(accounts);
+console.log(accounts);
