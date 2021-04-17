@@ -140,6 +140,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Data Transformation: Map, Filter, Reduce](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/data_transformation_map_filter_reduce)
 -   [The Map Method](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/the_map_method)
 -   [Computing Usernames](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/computing_usernames)
+-   [The Filter Method](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/the_filter_method)
 </details>
 
 ### 2. Assignments
