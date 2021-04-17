@@ -1,0 +1,12 @@
+DATA TRANSFORMATIONS
+    - MAP
+        • Map is similar to for each method but map creates a new array based on the original array
+        • Contains a callback function that performs some operation on the original array
+    - FILTER
+        • Used to filter for elements in the original array which satisfies given condition
+        • Will create new array with filtered elements
+    - REDUCE
+        • Boils down all the elements of the original array into a single value
+        • No new array in this case but only the reduced value
+
+Refer /concept_images/working_with_arrays/data_transformation.png
