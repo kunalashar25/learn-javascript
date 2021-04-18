@@ -142,6 +142,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Computing Usernames](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/computing_usernames)
 -   [The Filter Method](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/the_filter_method)
 -   [The Reduce Method](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/the_reduce_method)
+-   [The Magic of Chaining Method](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/the_magic_of_chaining_methods)
 </details>
 
 ### 2. Assignments
