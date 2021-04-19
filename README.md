@@ -143,6 +143,8 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [The Filter Method](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/the_filter_method)
 -   [The Reduce Method](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/the_reduce_method)
 -   [The Magic of Chaining Method](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/the_magic_of_chaining_methods)
+-   [The Find Method](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/the_find_method)
+-   [Implement Login](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/implement_login)
 </details>
 
 ### 2. Assignments
