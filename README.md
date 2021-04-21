@@ -150,6 +150,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Some and Every](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/some_and_every)
 -   [flat and flatMap](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/flat_and_flatMap)
 -   [Sorting Arrays](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/sorting_arrays)
+-   [More ways of Creating and Filling Arrays](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/more_ways_of_creating_and_filling_arrays)
 </details>
 
 ### 2. Assignments
