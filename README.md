@@ -149,6 +149,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [The FindIndex Method](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/the_findindex_method)
 -   [Some and Every](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/some_and_every)
 -   [flat and flatMap](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/flat_and_flatMap)
+-   [Sorting Arrays](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/sorting_arrays)
 </details>
 
 ### 2. Assignments
