@@ -353,6 +353,7 @@ console.log(deposits, withdrawals); // 25180 -7340
 
 // 4. create a function to convert any string to title case
 const convertToTileCase = function (title) {
+	// convert first char to captial
 	const capitalize = str => str[0].toUpperCase() + str.slice(1);
 
 	// exceptions remains in lower case
