@@ -261,4 +261,5 @@ Refer [Challenges File](https://github.com/kunalashar25/learn-javascript/blob/ma
 -   [Challenge 1](https://github.com/kunalashar25/learn-javascript/tree/master/challenges/working_with_arrays/challenge_1)
 -   [Challenge 2](https://github.com/kunalashar25/learn-javascript/tree/master/challenges/working_with_arrays/challenge_2)
 -   [Challenge 3](https://github.com/kunalashar25/learn-javascript/tree/master/challenges/working_with_arrays/challenge_3)
+-   [Challenge 4](https://github.com/kunalashar25/learn-javascript/tree/master/challenges/working_with_arrays/challenge_4)
 </details>
