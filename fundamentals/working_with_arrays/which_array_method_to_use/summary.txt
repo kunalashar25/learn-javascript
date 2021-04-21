@@ -1,0 +1,1 @@
+Refer /concept_images/working_with_arrays/array_methods_summary.png

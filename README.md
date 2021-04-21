@@ -151,6 +151,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [flat and flatMap](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/flat_and_flatMap)
 -   [Sorting Arrays](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/sorting_arrays)
 -   [More ways of Creating and Filling Arrays](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/more_ways_of_creating_and_filling_arrays)
+-   [Which Array method to use?](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/which_array_method_to_use)
 </details>
 
 ### 2. Assignments
