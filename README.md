@@ -147,6 +147,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Implement Login](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/implement_login)
 -   [Implement Transfers](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/implement_transfers)
 -   [The FindIndex Method](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/the_findindex_method)
+-   [Some and Every](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/some_and_every)
 </details>
 
 ### 2. Assignments
