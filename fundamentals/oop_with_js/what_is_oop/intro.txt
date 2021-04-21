@@ -1,0 +1,22 @@
+WHAT IS OOP?
+    • OOP is a programming paradigm that is based on the concepts of objects.
+        ◦ Paradigm means Style of the code - how we write and organize code
+    • Obeject contains data (properties) and code (methods). We pack them together into one block.
+    • Objects are self-contained pieces of code
+
+CLASSES AND INSTANCES
+    • Class acts as a blueprint which can be used to create new objects based on the rules described in the class
+    • All objects created from a class are called Instances
+
+4 FUNDAMENTAL PRINCIPLES
+    • ABSTRACTION
+        ◦ Hide details that does not matter
+        ◦ Gives us an overview of things we are implementing
+    • ENCAPSUALTION
+        ◦ Keep properties and methods private inside the class.
+        ◦ Some methods can be exposed as a public interface (API).
+    • INHERITANCE
+        ◦ For Code Reusability
+        ◦ Parent - Child relationship
+    • POLYMORPHISM
+        ◦ Many Forms

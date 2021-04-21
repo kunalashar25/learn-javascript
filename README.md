@@ -155,6 +155,14 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Method Practice](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/working_with_arrays/methods_practice)
 </details>
 
+<details>
+  <summary>Object Oriented Programming (OOP) with JavaScript</summary>
+
+#### List of topics coverd under this section:
+
+-   [What is OOP?](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/what_is_oop)
+</details>
+
 ### 2. Assignments
 
 Refer [Assignments File](https://github.com/kunalashar25/learn-javascript/blob/master/assignment/assignments-js-fundamentals.pdf) to get all the questions.
