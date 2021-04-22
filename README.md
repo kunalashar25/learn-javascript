@@ -161,6 +161,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 #### List of topics coverd under this section:
 
 -   [What is OOP?](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/what_is_oop)
+-   [OOP in JavaScript](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/oop_in_javascript)
 </details>
 
 ### 2. Assignments

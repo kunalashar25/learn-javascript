@@ -1,0 +1,24 @@
+OOP_IN_JS
+    • We have prototypes in JS
+    • All Objects in JS are linked to a certain prototype object
+    • Prorotype object contains methods and properties that all the objects that are linked to that prototype can access and use
+    • This behaviour is called Prototypal Inheritance.
+    • Objects delagate behaviour to the linked prototype object
+    • Behaviour is just another term for method in this case.
+    • We can also call this mechanism as Delegation
+    • Objects Delegates their behaviour to the prototypes. 
+
+Refer /concept_images/oop_with_js/oop_in_js.png
+
+3 Ways of Implementing Prototypal Inheritance in JavaScript
+    • Constructor Function
+        ◦ Technique to create objects from a Function
+        ◦ This is how built-in objects like Arrays, Maps or Sets are implemented
+    • ES6 Classes
+        ◦ Modern alternatice to Constructor Function
+        ◦ "Syntactic sugar": behind the scenes, ES6 classes work exactly like Constructor Function. 
+        ◦ Just added a layer of abstraction over Constructor Function
+        ◦ ES6 classes do NOT behave like classes in "classical OOP"
+    • Object.create()
+        ◦ Easiest and straightforward way of linking an object to a prototype of an object
+        ◦ Not as used as other 2 methods
