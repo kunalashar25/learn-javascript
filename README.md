@@ -163,6 +163,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [What is OOP?](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/what_is_oop)
 -   [OOP in JavaScript](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/oop_in_javascript)
 -   [Constructor Functions and the new operator](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/constructor_functions_and_new_operator)
+-   [Prototypes](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/prototypes)
 </details>
 
 ### 2. Assignments
