@@ -1,0 +1,5 @@
+PROTOTYPE INHERITANCE
+Refer /concept_images/oop_with_js/prototype_inheritance.png
+
+PROTOTYPE CHAINING
+Refer /concept_images/oop_with_js/prototype_chaining.png

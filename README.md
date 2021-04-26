@@ -164,6 +164,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [OOP in JavaScript](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/oop_in_javascript)
 -   [Constructor Functions and the new operator](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/constructor_functions_and_new_operator)
 -   [Prototypes](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/prototypes)
+-   [Prototypal Inheritance and Prototypal Chain](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/prototypal_inheritance_and_prototype_change) : Capture clear picture later.
 </details>
 
 ### 2. Assignments
