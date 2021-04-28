@@ -276,3 +276,11 @@ Refer [Challenges File](https://github.com/kunalashar25/learn-javascript/blob/ma
 -   [Challenge 3](https://github.com/kunalashar25/learn-javascript/tree/master/challenges/working_with_arrays/challenge_3)
 -   [Challenge 4](https://github.com/kunalashar25/learn-javascript/tree/master/challenges/working_with_arrays/challenge_4)
 </details>
+
+<details>
+  <summary>Object Oriented Programming (OOP) with JavaScript</summary>
+
+#### Challenges in this section:
+
+-   [Challenge 1](https://github.com/kunalashar25/learn-javascript/tree/master/challenges/oop_with_js/challenge_1)
+</details>
