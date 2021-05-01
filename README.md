@@ -169,6 +169,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [ES6 Classes](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/es6_classes)
 -   [Setters and Getters](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/setters_and_getters)
 -   [Static Methods](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/static_methods)
+-   [Object.create](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/object_create)
 </details>
 
 ### 2. Assignments
