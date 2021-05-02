@@ -1,0 +1,15 @@
+Synchronous
+    • Code is executed line by line in the exact order of execution that we define in our code.
+    • Each line of code always wait for the previous line to complete execution.
+
+Asynchronous
+    • Code is executed after a task that runs in the background finishes
+    • It is non-blocking code.
+    • Execution does not wait for an Asynchronous task to finish its work.
+
+AJAX
+    • Stands for Asynchronous JavaScript and XML
+    • Allows us to communicate with web-server in Asynchronous way
+
+API
+    • Application Programming Interface

@@ -179,6 +179,15 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Chaining Methods](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/chaining_methods)
 </details>
 
+<details>
+  <summary>Asynchronous JavaScript: Promises, Async/Await, and Ajax</summary>
+
+#### List of topics coverd under this section:
+
+-   [Async JS, Ajax, and API](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/asynchronous_javascript/async_js_ajax_api)
+-   [First AJAX call: XMLHTTPREQUEST](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/asynchronous_javascript/first_ajax_call)
+</details>
+
 ### 2. Assignments
 
 Refer [Assignments File](https://github.com/kunalashar25/learn-javascript/blob/master/assignment/assignments-js-fundamentals.pdf) to get all the questions.
