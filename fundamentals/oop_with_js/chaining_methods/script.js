@@ -49,3 +49,6 @@ console.log(a1); // Account {locale: "en-US", owner: "Jonas", currency: "Euro",
 // Chaining methods
 a1.deposit(200).deposit(500).requestLoan(5000).withdrawal(1000);
 console.log(a1.getMovements()); // (4)[(200, 500, 5000, -1000)];
+
+// Refer this image for entire summary on classes
+// /concept_images/oop_with_js/summary_of_classes.png
