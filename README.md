@@ -171,6 +171,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Static Methods](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/static_methods)
 -   [Object.create](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/object_create)
 -   [Inheritance between Classes: Constuctor Functions](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/inheritance_between_classes/constructor_functions)
+-   [Inheritance between Classes: ES6 Classes](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/inheritance_between_classes/es6_classes)
 </details>
 
 ### 2. Assignments
