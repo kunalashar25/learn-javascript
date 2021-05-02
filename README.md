@@ -174,8 +174,9 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Inheritance between Classes: ES6 Classes](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/inheritance_between_classes/es6_classes)
 -   [Inheritance between Classes: Object.create()](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/inheritance_between_classes/object_create)
 -   [Another Class Example](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/another_class_example)
--   [Encapsulation: Protected Properties and Methods](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/protected_properties_and_methods)
--   [Encapsulation: Private Class Fields and Methods](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/private_class_fields_and_methods)
+-   [Encapsulation: Protected Properties and Methods](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/encapsulation/protected_properties_and_methods)
+-   [Encapsulation: Private Class Fields and Methods](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/encapsulation/private_class_fields_and_methods)
+-   [Chaining Methods](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/oop_with_js/chaining_methods)
 </details>
 
 ### 2. Assignments
