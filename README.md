@@ -187,6 +187,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Async JS, Ajax, and API](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/asynchronous_javascript/async_js_ajax_api)
 -   [First AJAX call: XMLHTTPREQUEST](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/asynchronous_javascript/first_ajax_call)
 -   [Callback Hell](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/asynchronous_javascript/callback_hell)
+-   [Promises and Fetch API](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/asynchronous_javascript/promises_and_fetch_api)
 </details>
 
 ### 2. Assignments
