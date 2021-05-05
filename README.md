@@ -189,6 +189,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Callback Hell](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/asynchronous_javascript/callback_hell)
 -   [Promises and Fetch API](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/asynchronous_javascript/promises_and_fetch_api)
 -   [Consuming Promises](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/asynchronous_javascript/consuming_promises)
+-   [Chaining Promises](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/asynchronous_javascript/chaining_promises)
 </details>
 
 ### 2. Assignments
