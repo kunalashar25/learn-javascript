@@ -1,0 +1,14 @@
+Event Loop
+    • Event loop makes async behaviour possible in javascript
+    • loading images in js is async, it does not happen in the call stack
+    • it happends in webAPI environment
+    • Event loop coordinates between call stack and callback queue
+    • event loop decides when each callback will be executed.
+
+MICROTASKS
+    • callbacks of promise have a special queue
+    • It is called Microtasks queue
+    • Microtasks queue has priority over callback queue
+    • all events from microtasks queue would be exeucted before running any event from the callback queue
+    • We call callbacks from promise as microtasks. Hence, microtasks queue
+    • if one microtasks adds another microtask then all microtasks will be executed before exeuting any event from the callback queue
