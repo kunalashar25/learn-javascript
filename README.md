@@ -312,3 +312,11 @@ Refer [Challenges File](https://github.com/kunalashar25/learn-javascript/blob/ma
 -   [Challenge 2](https://github.com/kunalashar25/learn-javascript/tree/master/challenges/oop_with_js/challenge_2)
 -   [Challenge 3](https://github.com/kunalashar25/learn-javascript/tree/master/challenges/oop_with_js/challenge_3)
 </details>
+
+<details>
+  <summary>Asynchronous JavaScript: Promises, Async/Await, and Ajax</summary>
+
+#### Challenges in this section:
+
+-   [Challenge 1](https://github.com/kunalashar25/learn-javascript/tree/master/challenges/asynchronous_javascript/challenge_1)
+</details>
