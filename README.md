@@ -193,6 +193,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Handling Rejected Promises](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/asynchronous_javascript/handling_rejected_promises)
 -   [Throwing Errors Manually](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/asynchronous_javascript/throwing_errors_manually)
 -   [Asynchronous Behind the Scene - The Event Loop](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/asynchronous_javascript/async_behind_the_scene_the_event_loop)
+-   [Event Loop in Practice](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/asynchronous_javascript/event_loop_in_practice)
 </details>
 
 ### 2. Assignments
