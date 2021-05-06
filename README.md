@@ -191,6 +191,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Consuming Promises](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/asynchronous_javascript/consuming_promises)
 -   [Chaining Promises](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/asynchronous_javascript/chaining_promises)
 -   [Handling Rejected Promises](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/asynchronous_javascript/handling_rejected_promises)
+-   [Throwing Errors Manually](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/asynchronous_javascript/throwing_errors_manually)
 </details>
 
 ### 2. Assignments
