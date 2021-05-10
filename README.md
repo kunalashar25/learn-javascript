@@ -196,6 +196,7 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Event Loop in Practice](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/asynchronous_javascript/event_loop_in_practice)
 -   [Building a Simple Promise](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/asynchronous_javascript/building_a_simple_promise)
 -   [Promisifying Geolocation API](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/asynchronous_javascript/promisifying_geolocation_api)
+-   [Consuming Promises with Async/Await](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/asynchronous_javascript/consuming_promises_with_async_await)
 </details>
 
 ### 2. Assignments
