@@ -211,6 +211,8 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Overview of Modern JS Development](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/modules_tooling_and_functional/overview_of_modern_js_development)
 -   [Overview of Modules in JS](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/modules_tooling_and_functional/overview_of_modern_js_development)
 -   [Exporting and Importing Modules](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/modules_tooling_and_functional/exporting_and_importing_modules)
+-   [The Module Pattern](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/modules_tooling_and_functional/the_module_pattern)
+
 </details>
 
 ### 2. Assignments
