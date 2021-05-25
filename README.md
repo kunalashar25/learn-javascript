@@ -203,6 +203,15 @@ If you're new to Javascript world then start learning the fundamentals first as 
 -   [Other Promise Combinators - Race, AllSettled, Any](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/asynchronous_javascript/other_promise_combinators)
 </details>
 
+<details>
+  <summary>Modules, Tooling, and Functional</summary>
+
+#### List of topics coverd under this section:
+
+-   [Overview of Modern JS Development](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/modules_tooling_and_functional/overview_of_modern_js_development)
+-   [Overview of Modules in JS](https://github.com/kunalashar25/learn-javascript/tree/master/fundamentals/modules_tooling_and_functional/overview_of_modern_js_development)
+</details>
+
 ### 2. Assignments
 
 Refer [Assignments File](https://github.com/kunalashar25/learn-javascript/blob/master/assignment/assignments-js-fundamentals.pdf) to get all the questions.

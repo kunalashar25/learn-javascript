@@ -1,0 +1,11 @@
+ Read Overview of Modules
+ /concept_images/modules_tooling_and_functional/overview_of_modules.png
+
+ Why do we need modules?
+ /concept_images/modules_tooling_and_functional/why_do_we_need_modules.png
+
+ Difference between ES6 Modules and Scripts
+ /concept_images/modules_tooling_and_functional/modules_vs_script.png
+
+ How modules are imported?
+ /concept_images/modules_tooling_and_functional/how_modules_are_imported.png
